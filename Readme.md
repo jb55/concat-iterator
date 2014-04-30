@@ -3,6 +3,8 @@
 
   concat two or more iterators into one
 
+  [![Build Status](https://travis-ci.org/jb55/concat-iterator.png)](https://travis-ci.org/jb55/concat-iterator)
+
 ## Installation
 
   Install with npm
