@@ -1,0 +1,21 @@
+{
+  "name": "concat-iterator",
+  "description": "concat iterators",
+  "keywords": ["concat", "iterator", "concatIterator"],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jb55/concat-iterator.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony --reporter spec"
+  },
+  "dependencies": {
+    "array-iterator": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  }
+}
